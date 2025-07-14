@@ -1,0 +1,98 @@
+th, td{
+    border: 2px solid rgb(0, 0, 0);
+   
+    text-align: center;
+    background-color: yellow;
+    
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+h1{
+    color: black;
+    background-color: aqua;
+    text-align: center;
+}
+.b1{
+    background-color: white;
+}
+.b1{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+
+.b2{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+.b3{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+.b4{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+.b5{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+.b6{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+.b7{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+.b8{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.bd1{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+.bd2{
+    color: #000000;
+    background-color: rgb(92, 245, 87);
+}
+.bd3{
+    color: #000000;
+    background-color: rgb(47, 0, 255);
+}
+.bd4{
+    color: #000000;
+    background-color: rgb(251, 255, 0);
+}
+.bd5{
+    color: #000000;
+    background-color: rgb(255, 0, 0);
+}
+.bd6{
+    color: #000000;
+    background-color: rgb(0, 238, 255);
+}
+.bd7{
+    color: #000000;
+    background-color: rgb(255, 0, 221);
+}
+.bd8{
+    color: #000000;
+    background-color: rgb(51, 255, 0);
+}
+
+.jam{
+    color: black;
+    background-color: lawngreen;
+}
+h3{
+    color: black;
+    background-color: dimgray;
+    text-align: center;
+}
